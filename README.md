@@ -2,12 +2,12 @@
 
 Team Members
 
-- Gilbert Collado, [GitHub](https://github.com/JapanesePlatano)
+- Gilbert Collado, [GitHub](https://github.com/JapanesePlatano), 
 
-- Cody Blahnik
+- Cody Blahnik, [GitHub](https://github.com/Cody354)
 
-- Ethan Pham
+- Ethan Pham, [GitHub](https://github.com/EthanPham03)
 
-- Ricky Yeung
+- Ricky Yeung, [GitHub](https://github.com/RickyYeungCoding)
 
-- Justin Patterson
+- Justin Patterson [GitHub](https://github.com/JustinHero-XYZ)
