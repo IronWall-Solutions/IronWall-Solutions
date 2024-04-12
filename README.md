@@ -1,6 +1,6 @@
 # IronWall Solutions
 
-Team Members
+## Team Members
 
   - Gilbert Collado, [GitHub](https://github.com/JapanesePlatano), [LinkedIn](https://www.linkedin.com/in/gilbert-collado-545099254/)
 
@@ -12,7 +12,9 @@ Team Members
 
   - Justin Patterson, [GitHub](https://github.com/JustinHero-XYZ), [LinkedIn](www.linkedin.com/in/justinjpatterson)
 
-Project Managing Tool - []()
+## Project Managing Tool 
+  - []()
 
-[SOP]() 
+## SOP
+  - [SOP Link]() 
 
