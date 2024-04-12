@@ -13,8 +13,13 @@
   - Justin Patterson, [GitHub](https://github.com/JustinHero-XYZ), [LinkedIn](www.linkedin.com/in/justinjpatterson)
 
 ## Project Managing Tool 
-  - []()
+  - [Trello](https://trello.com/b/Kd6DOAL6/ops-301-group-2)
 
 ## SOP
-  - [SOP Link]() 
+  - [SOP Link]()
+
+## Presentation
+  - [Presentation Link](https://docs.google.com/presentation/d/1jhzKxKsiiaKPURAyX7aQzaIGkcCt3hDEuDG1MYvP8c0/edit#slide=id.g2cbcd33b5d0_1_331)
+
+
 
