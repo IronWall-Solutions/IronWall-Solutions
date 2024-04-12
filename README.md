@@ -1,11 +1,13 @@
 # Ops-301d12-Group-2-Rep
 
-Gilbert Collado
+Team Members
 
-Cody Blahnik
+- Gilbert Collado, [GitHub](https://github.com/JapanesePlatano)
 
-Ethan Pham
+- Cody Blahnik
 
-Ricky Yeung
+- Ethan Pham
 
-Justin Patterson
+- Ricky Yeung
+
+- Justin Patterson
