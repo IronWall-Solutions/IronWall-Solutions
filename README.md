@@ -20,7 +20,7 @@
   - [SOP Link](https://github.com/IronWall-Solutions/IronWall-Solutions/tree/main/SOP)
   - [Managing Network Changes](https://docs.google.com/document/d/11LPUGnCqR3S5nlwUBjrwVtTEwKjLYBSB9c_pm3VvnDY/edit?usp=sharing) -Justin Patterson
   - [Terminated Empoyees](https://github.com/IronWall-Solutions/IronWall-Solutions/blob/main/SOP/SOP301%20.pdf)
-  - 
+  - [Network Accounts](https://docs.google.com/document/d/1pzwI_zIzj8evKDmayjCTkQylNlOpmtuhu5e6tBeQ47Y/edit?usp=sharinghttps://docs.google.com/document/d/1pzwI_zIzj8evKDmayjCTkQylNlOpmtuhu5e6tBeQ47Y/edit?usp=sharing) -Gilbert Collado
 
 
 ## Presentation
