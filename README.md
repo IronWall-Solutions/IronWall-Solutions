@@ -1,5 +1,5 @@
 # IronWall Solutions
-
+![  ](https://github.com/IronWall-Solutions/IronWall-Solutions/blob/main/SOP/Designer.jpeg)
 ## Team Members
 
   - Gilbert Collado, [GitHub](https://github.com/JapanesePlatano), [LinkedIn](https://www.linkedin.com/in/gilbert-collado-545099254/)
