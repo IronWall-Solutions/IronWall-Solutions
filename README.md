@@ -16,12 +16,9 @@
   - [Trello](https://trello.com/b/Kd6DOAL6/ops-301-group-2)
 
 ## SOP
-<<<<<<< HEAD
-  - [SOP Link]()
 
-=======
   - [SOP Link](https://github.com/IronWall-Solutions/IronWall-Solutions/tree/main/SOP)
->>>>>>> refs/remotes/origin/main
+
 
 ## Presentation
   - [Presentation Link](https://docs.google.com/presentation/d/1jhzKxKsiiaKPURAyX7aQzaIGkcCt3hDEuDG1MYvP8c0/edit#slide=id.g2cbcd33b5d0_1_331)
