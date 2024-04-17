@@ -16,7 +16,7 @@
   - [Trello](https://trello.com/b/Kd6DOAL6/ops-301-group-2)
 
 ## System Diagrams
-  - [CineTech Topology]https://drive.google.com/file/d/1Z3EEY2IO7Xr0rcfI5G56nZtqnTXfnbJZ/view?usp=sharing) - Gilbert Collado, Cody Blahnik
+  - [CineTech Topology](https://drive.google.com/file/d/1Z3EEY2IO7Xr0rcfI5G56nZtqnTXfnbJZ/view?usp=sharing) - Gilbert Collado, Cody Blahnik
 ## SOPs
   - [Network Security](https://docs.google.com/document/d/13duAcZA02MWs-yKL854-FaOEfN8PE2aTvQ7FD0beR7o/edit) -Ricky Yeung
   - [Monitoring Network Traffic](https://docs.google.com/document/d/1DpJmviLRjyGHQhcJ0qh5CsO0cZ8hbv3kWLgSY5cozBk/edit?usp=sharing) -Ethan Pham
