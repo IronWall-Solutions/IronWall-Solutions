@@ -25,7 +25,7 @@
   - [Network Accounts](https://docs.google.com/document/d/1pzwI_zIzj8evKDmayjCTkQylNlOpmtuhu5e6tBeQ47Y/edit?usp=sharinghttps://docs.google.com/document/d/1pzwI_zIzj8evKDmayjCTkQylNlOpmtuhu5e6tBeQ47Y/edit?usp=sharing) -Gilbert Collado
 
 ## Documentation
-  -  [Network Design](https://docs.google.com/document/d/17UjCh0inP5uFF-cJYqxZB_VZ1mgg8WfrzhvwvfHazyg/edit?usp=sharing) - Gilbert Collado
+  -  [Network Design](https://docs.google.com/document/d/17UjCh0inP5uFF-cJYqxZB_VZ1mgg8WfrzhvwvfHazyg/edit?usp=sharing) - Cody Blahnik
   -  [Configuration](https://docs.google.com/document/d/1to8NRKT_HssoeOc-g3EV99iDc7Nl3j9T8q34k5Z1nO8/edit?usp=sharing) - Gilbert Collado
   -  [Virtual Machine Deployment](https://docs.google.com/document/d/1jIYo56tAeaYk1PyjXe8PV81pc7ePjI3Bb55npq4JUZU/edit?usp=sharing) - Gilbert Collado
   -  [Scripting Details](https://docs.google.com/document/d/1tizMLtcRAWJL2UIVFyCHR6xSTorFcqalmS6kD7G3lj4/edit?usp=sharing) - Gilbert Collado
