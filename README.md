@@ -1,7 +1,7 @@
 # IronWall Solutions
 ![  ](https://github.com/IronWall-Solutions/IronWall-Solutions/blob/main/SOP/Designer.jpeg)
 
-# A mock MSP company creating a sloution for a client. Cine Tech has reached out to our company. We were informed that the client's network is outdated, and their workforce is expanding. They would benefit from secured and reliable communication between the satellite router and central server. Workers need to have better collaboration, sharing files, and a backup solution for business needs. Most importantly, all their data must be secured with safeguard measures. These are our solution.
+### A mock MSP company creating a sloution for a client. Cine Tech has reached out to our company. We were informed that the client's network is outdated, and their workforce is expanding. They would benefit from secured and reliable communication between the satellite router and central server. Workers need to have better collaboration, sharing files, and a backup solution for business needs. Most importantly, all their data must be secured with safeguard measures. These are our solution.
 
 ## Team Members
 
