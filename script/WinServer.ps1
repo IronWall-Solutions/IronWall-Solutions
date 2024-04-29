@@ -33,4 +33,4 @@ New-ADOrganizationalUnit -Name "IT" -Path "DC=corp.cinetech,DC=com"
 
 # Create users
 New-ADUser -Name "Ethan Pham" -GivenName "Ethan" -Surname "Pham" -SamAccountName "Ethan" -UserPrincipalName "ethanlepham@gmail.com" -Path "OU=Sales,DC=corp.cinetech,DC=com" -AccountPassword (ConvertTo-SecureString "P@ssword" -AsPlainText -Force) -Enabled $true
-New-ADUser -Name "Cody Blahnik" -GivenName "Cody" -Surname "Blahnik" -SamAccountName "Cody" -UserPrincipalName "cody.blahnik@gmail.com" -Path "OU=IT,DC=corp.cinetech,DC=com" -AccountPassword (ConvertTo-SecureString "P@ssword" -AsPlainText -Force) -Enabled $true
+New-ADUser -Name "Cody Blahnik" -GivenName "Cody" -Surname "Blahnik" -SamAccountName "Cody" -UserPrincipalName "cody.lahnik@gmail.com" -Path "OU=IT,DC=corp.cinetech,DC=com" -AccountPassword (ConvertTo-SecureString "P@ssword" -AsPlainText -Force) -Enabled $true
